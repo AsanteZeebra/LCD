@@ -10,7 +10,8 @@
                     products are designed to meet the highest standards of performance and reliability.</p>
                 <div class="social-links d-flex mt-4">
                     <a href=""><i class="bi bi-twitter-x"></i></a>
-                    <a href=""><i class="bi bi-facebook"></i></a>
+                    <a href="https://www.facebook.com/profile.php?id=61576218803642
+                    "><i class="bi bi-facebook"></i></a>
                     <a href=""><i class="bi bi-instagram"></i></a>
                     <a href=""><i class="bi bi-linkedin"></i></a>
                 </div>
@@ -27,6 +28,20 @@
                 </ul>
             </div>
 
+             <div class="col-lg-2 col-6 footer-links">
+                <h4>Brands</h4>
+                <ul>
+                    <li><a href="#">Samsung</a></li>
+                    <li><a href="#">Inolux</a></li>
+                    <li><a href="#">LG Display</a></li>
+                    <li><a href="#">CHOT</a></li>
+                    <li><a href="#">AUO</a></li>
+                    <li><a href="#">BOE</a></li>
+                    <li><a href="#">Sharp</a></li>
+                    <li><a href="#">Panda</a></li>
+
+                </ul>
+            </div>
 
 
             <div class="col-lg-3 col-md-12 footer-contact text-center text-md-start">
@@ -34,7 +49,7 @@
                 <p>Lapaz Nyamekye</p>
                 <p>Close to MAB Hospital</p>
                 <p>Accra,Ghana</p>
-                <p class="mt-4"><strong>Phone:</strong> <span>+1 27 954 8213</span></p>
+                <p class="mt-4"><strong>Phone:</strong> <span>+233 27 954 8213</span></p>
                 <p><strong>Email:</strong> <span>nanakweku608@gmail.com</span></p>
             </div>
 
@@ -48,7 +63,7 @@
             <!-- You can delete the links only if you've purchased the pro version. -->
             <!-- Licensing information: https://bootstrapmade.com/license/ -->
             <!-- Purchase the pro version with working PHP/AJAX contact form: [buy-url] -->
-            Developed by <a href="https://bootstrapmade.com/">FremikeTech</a>
+            Developed by <a href="#">FremikeTech</a>
         </div>
     </div>
 

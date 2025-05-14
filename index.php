@@ -87,8 +87,7 @@
           <div class="content-left flex-grow-1" data-aos="fade-right" data-aos-delay="200">
             <span class="badge text-uppercase mb-2">Better Choice!!</span>
             <h2>Revolutionize Your Viewing Experience Today</h2>
-            <p class="my-4">Strategia accelerates your business growth through innovative solutions and cutting-edge
-              technology. Join thousands of satisfied customers who have transformed their operations.</p>
+            <p class="my-4">Thanks to our extensive inventory and partnerships with all TV panel manufacturers like BOE, LG, INNOLUX, CSOT,etc. QF Electronics provides a one-stop solution for all TV panel needs</p>
 
             <div class="features d-flex flex-wrap gap-3 mb-4">
               <div class="feature-item">
