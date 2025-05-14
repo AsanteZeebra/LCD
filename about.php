@@ -24,10 +24,10 @@
   <div class="row gx-5 align-items-center">
     <div class="col-lg-6" data-aos="fade-right" data-aos-delay="200">
       <div class="about-image position-relative">
-        <img src="assets/img/about/about-portrait-1.webp" class="img-fluid rounded-4 shadow-sm" alt="About Image" loading="lazy">
+        <img src="assets/img/about/abb.png" class="img-fluid rounded-4 shadow-sm" alt="About Image" loading="lazy">
         <div class="experience-badge">
           <span class="years">4+</span>
-          <span class="text">Years of Supply</span>
+          <span class="text">Years</span>
         </div>
       </div>
     </div>
